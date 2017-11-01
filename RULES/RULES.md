@@ -1,14 +1,14 @@
-#**Intro**
+# **Intro**
 Congrats! You are in your final year of wizard school but before you can graduate you must participate in the schools Wizard Tournament! Here you will be pitted 1v1 against other students. 
 
 But first you must learn more about your wand! Up until now you have used practice wands but finally you are allowed to experiment with your wand’s construction. Choose your wood and core to best match the spells you know to give you an edge in the tournament.
 
-####**Materials**
+#### **Materials**
 
 30 cards
 30 Tokens
 
-####**Cards**
+#### **Cards**
 
 **Spells (deck contains two of each)**
 
@@ -41,18 +41,18 @@ But first you must learn more about your wand! Up until now you have used practi
  - Willow : Defence 
 
 
-####**Setup**
+#### **Setup**
  - Each player receives four tokens.
  - Shuffle deck
  - Deal 4 cards face up between the two players. 
 
-####**Bidding Round**
+#### **Bidding Round**
 
  - Players can bid on any number of cards they want. If they are out-bidded, their tokens are returned.
  - Replace cards that were purchased new ones from top of deck and give each player 2 more tokens
  - Repeat 4 more times. 
 
-####**Combat Round**
+#### **Combat Round**
 
 Now players create their wand by placing one core and one wood, if they have any, in front of them. Discard any unused wand components 
 
