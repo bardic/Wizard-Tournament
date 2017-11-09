@@ -1,0 +1,9 @@
+- Add a base attack card 
+- Swiftness is too strong
+- Shield is broken / Tweak wording to be about offensive spells? 
+- Remove cooldown pile. Replace with discard. Once hand is empty shuffle and return to hand
+- After bid, clear the cards on the board
+- Maybe have a min hand size? Or players start with 2 basic attacks/defense spells 
+- More damage spells are needed
+- Remove "this turn" actions
+- Cards need to have 'Type' on them
